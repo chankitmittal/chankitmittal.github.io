@@ -1,8 +1,8 @@
-#ABOUT ME
+# ℹ️ABOUT ME
 
 I am Chankit Mittal. I am working as Technical Specialist at ZF Technical Centre Pvt Ltd, Hyderabad, Telangana, India. I am ISTQB Advanced and Foundation level certified Engineer with over 6.5 years of experience in Software qualification and unit verification tests. I am also involved in designing & reviewing requirement-based tests, and performing manual, automated tests for steering and Braking products. Proficient in implementing scripts in Python and CAPL, reducing testing time and increasing test coverage.
 
-#SKILLS & TECHNOLOGIES
+##SKILLS & TECHNOLOGIES
 
 - Python, CAPL, Embedded C, C#
 
@@ -21,10 +21,10 @@ I am Chankit Mittal. I am working as Technical Specialist at ZF Technical Centre
 - MS Office, Eclipse, Pycharm, JIRA
 
 
-#Experience
+## 🌟 Experience
 
-ZF Technical Centre India Pvt Ltd
-Projects: Steer by Wire, Integrated Brake Control, Electronic Stability Control
+###ZF Technical Centre India Pvt Ltd
+####Projects: Steer by Wire, Integrated Brake Control, Electronic Stability Control
 
 - Coordinated and performed testing activities for Bootloader (SW download), Fault cycle tests with Diagnostic & Comms Failsafe with CAPL and led 3 engineers in the Steer-By-Wire project.
 
@@ -46,8 +46,8 @@ Projects: Steer by Wire, Integrated Brake Control, Electronic Stability Control
 
 - Involved in technical support to the team during testing activities. Additionally, visited Koblenz, Germany, for two months to support project activities.
 
-AVL Technical Centre India Pvt Ltd
-Projects: Battery Management System, Inverter
+###AVL Technical Centre India Pvt Ltd
+####Projects: Battery Management System, Inverter
 
 - Designed test suites for 10+ components based on SW requirements & unit design in SWE.4.
 
@@ -65,7 +65,7 @@ Projects: Battery Management System, Inverter
 
 - Provided on-site training for 3 Months at AVL Software & Functions, Germany.
 
-#Education
+##Education
 
 - Bachelors in Technology, Electronics and Communication Engineering 
   Indraprastha University, Delhi
@@ -75,21 +75,21 @@ Projects: Battery Management System, Inverter
   CBSE, Delhi
   April 2013 - March 2015
 
-#Certificates
+##Certificates
 
 - ISTQB Technical Test Analyst
 - ISTQB Foundation level
 - Python: Automation Scripting
 - MATLAB: Basic Scripting
 
-#CONTACT
+##CONTACT
 
 Email: mittalchankit@gmail.com
 LinkedIn: https://www.linkedin.com/in/chankitmittal/
 Portfolio: https://chankitmittal.github.io/
 GitHub: https://github.com/chankitmittal
 
-#Language
+##Language
 
 - English(Full Professional)
 - Hindi  (Native)
