@@ -1,8 +1,8 @@
 # ℹ️ABOUT ME
 
-I am Chankit Mittal. I am working as Technical Specialist at ZF Technical Centre Pvt Ltd, Hyderabad, Telangana, India. I am ISTQB Advanced and Foundation level certified Engineer with over 6.5 years of experience in Software qualification and unit verification tests. I am also involved in designing & reviewing requirement-based tests, and performing manual, automated tests for steering and Braking products. Proficient in implementing scripts in Python and CAPL, reducing testing time and increasing test coverage.
+I am Chankit Mittal. Currently working as Technical Specialist at ZF Technical Centre Pvt Ltd, Hyderabad, Telangana, India. I am ISTQB Advanced and Foundation level certified Engineer with over 6.5 years of experience in Software qualification and unit verification tests. I am also involved in designing & reviewing requirement-based tests, and performing manual, automated tests for steering and Braking products. Proficient in implementing scripts in Python and CAPL, reducing testing time and increasing test coverage.
 
-## SKILLS & TECHNOLOGIES
+## 🚀SKILLS & TECHNOLOGIES
 
 - Python, CAPL, Embedded C, C#
 
@@ -84,12 +84,12 @@ I am Chankit Mittal. I am working as Technical Specialist at ZF Technical Centre
 - Python: Automation Scripting
 - MATLAB: Basic Scripting
 
-## CONTACT
+## ✍️CONTACT
 
-Email: mittalchankit@gmail.com  
-LinkedIn: https://www.linkedin.com/in/chankitmittal/  
-Portfolio: https://chankitmittal.github.io/  
-GitHub: https://github.com/chankitmittal  
+Email: [mittalchankit@gmail.com](mittalchankit@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/chankitmittal/](https://www.linkedin.com/in/chankitmittal/)  
+Portfolio: [https://chankitmittal.github.io/](https://chankitmittal.github.io/)  
+GitHub: [https://github.com/chankitmittal](https://github.com/chankitmittal)  
 
 ## Language
 
