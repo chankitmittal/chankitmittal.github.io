@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chankit Mittal - Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: 220px;
+      background: #222;
+      color: #fff;
+      height: 100vh;
+      position: fixed;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 4px 0 8px rgba(0,0,0,0.2); /* subtle shadow for separation */
+    }
+
+    .sidebar img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+      border: 3px solid #007acc;
+    }
+
+    .sidebar h2 {
+      margin: 10px 0;
+    }
+
+    .sidebar a {
+      display: block;
+      color: #fff;
+      text-decoration: none;
+      margin: 10px 0;
+    }
+
+    .sidebar a:hover {
+      color: #007acc;
+    }
+
+    /* Main content */
+    .main {
+      margin-left: 260px;   /* extra margin from sidebar */
+      padding: 30px;        /* inner spacing */
+      flex: 1;
+      background: #fff;     /* background strip for clarity */
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    section {
+      margin-bottom: 40px;
+    }
+
+    h2 {
+      border-bottom: 2px solid #007acc;
+      padding-bottom: 5px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin-bottom: 10px;
+    }
+
+    /* Contact form styling */
+    form {
+      display: flex;
+      flex-direction: column;
+      max-width: 500px;
+    }
+
+    input, textarea {
+      margin-bottom: 15px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 14px;
+    }
+
+    button {
+      background: #007acc;
+      color: #fff;
+      border: none;
+      padding: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background: #005f99;
+    }
+
+    /* Footer */
+    footer {
+      margin-left: 260px;
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+    }
+
+    footer a {
+      color: #66b2ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <img src="Images/Chankit_Mittal.jpg" alt="Profile Picture">
+    <h2>Chankit Mittal</h2>
+
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#experience">Experience</a>
+    <a href="#education">Education</a>
+	<a href="#Certificates">Certificates</a>
+    <a href="#contact">Contact</a>
+  </div>
+
+  <div class="main">
+    <section id="about">
+      <h2>About Me</h2>
+      <p><strong>ISTQB Advanced Level - TTA and Foundation level (CTFL)</strong> certified Engineer with more than 6 years of experience in Software Qualification and Software Unit verification tests in automotive systems. Involved in designing and reviewing requirement-based tests. Performed manual and automated testing for Braking and Steering projects. Proficient in automated testing by implementing scripts using Python and CAPL. Reduced testing time and increased test coverage for XIL Test environments.</p>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li><strong>Programming:</strong> Python, CAPL, Embedded C</li>
+        <li><strong>Testing Tools:</strong> CANoe, Canape, Vector DIVA, VectorCAST, CIAT Tools, Lauterbach Trace32, UDE debugger</li>
+        <li><strong>Flash Tools:</strong> VFlash</li>
+		<li><strong>Communication Protocols:</strong> CAN, Flexray</li>
+		<li><strong>Diagnostics Protocols:</strong> UDS, OBD</li>
+		<li><strong>Tools:</strong> PTC Integrity, DOORs, GIT, JIRA, Eclipse, Pycharm</li>
+      </ul>
+    </section>
+
+    <section id="experience">
+      <h2>Experience</h2>
+      <ul>
+        <li><strong>Technical Specialist - Test</strong></li>
+		<li><strong>ZF India Technical Centre Pvt Ltd</strong></li>
+		<li><strong>Sept 2022 – Present</strong></li>
+		<li><strong>Projects</strong> - Steer By Wire, Integrated Brake Control, Electronics Stability Control</li>
+		<li>• Coordinated and performed testing activities for Bootloader (SW download), Fault cycle tests with Diagnostic & Comms Failsafe with CAPL and led 3 engineers in the Steer-By-Wire project.<br><br>• Spearheaded development of scripts using Python for E2E testing for Comms Fault handling for HIL, automating test generation & specifications, reducing testing time by 80%.<br><br>• Developed a Python-based solution for auto-generating OBD fault-handling tests based on OBD type for HIL & Test Suite creation, resulting in a 70% reduction in time.<br><br>• Built a Python-based tool for auto-generating HIL & CAPL-based tests & specifications for vehicle comms Rx testing, leveraging Customer document (*.arxml/*.dbc) & Rx/Tx Interface list, reducing test development and execution time by 75%.<br><br>• Implemented a UDS-based flashing script using a keyword-driven approach to perform positive and negative testing for the Appl SW download using Canoe.<br><br>• Executed tests for NVRAM and State Management in standalone benches.<br><br>• Implemented a Python script to extract data from DIVA test reports and automatically import them into Rational DOORS, reducing manual effort by 80%.<br><br>• Established & maintained Test environments for braking and steering products and led the adoption of a new remote desktop connection approach, boosting efficiency by 20%.<br><br>• Prepared user manuals, concept slides for automation tools, provided training sessions to over 15+ engineers, updated test strategies based on features and projects.<br><br>• Involved in technical support to the team during testing activities. Additionally, visited Koblenz, Germany for two months to support project activities.<br><br></li>
+        <li><strong>Software Test Engineer</strong></li>
+		<li><strong>AVL India Technical Centre Pvt Ltd</strong></li>
+		<li><strong>Mar 2019 – Aug 2022</strong></li>
+		<li><strong>Projects</strong> - Inverter, Battery Management System</li>
+		<li>• Designed test suites for 10+ components based on SW requirements and unit design in SWE.4 for Base SW components.<br><br>• Manually created 100+ test cases using White box, black box testing techniques, focusing on Safety levels for SIL and PIL-based test environments.<br><br>• Executed Manual, automated, and regression testing using VectorCAST, reviewed unit test artifacts for correctness based on the test Strategy, reduced overall time by 25%.<br><br>• Trained team members in VectorCAST and test management process for non-model-based development, improved 20% team efficiency.<br><br>• Upgraded liquid template scripts for Test generation, resulting in 30% less testing time.<br><br>• Achieved 100% assessment in Software Unit Verification (SWE.4) for ASPICE L2 Audit and meeting global team management goals.<br><br>• Collaborated with the teams to improve process, documented user manuals and lessons learnt during defects resolution, contributed to 20% increase in team efficiency.<br><br>• Got opportunity for on-site training for 3 Months at AVL Software and Functions, Regensburg, Germany.</li>
+      </ul>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>B.Tech in Electronics and Communication Engineering<br><br>Guru Gobind Singh Indraprastha University, India<br><br>Aug 2015 - May 2019</li>
+      </ul>
+    </section>
+	
+	<section id="Certificates">
+      <h2>Certificates</h2>
+      <ul>
+        <li>ISTQB Advanced - Technical Test Analyst</li>
+        <li>ISTQB Certified Tester Foundation Level</li>
+		<li>Python - Automation Scripting</li>
+		<li>MATLAB: Introduction to Programming</li>
+      </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <ul>
+        <li>Email: <a href="mailto:mittalchankit@gmail.com">mittalchankit@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/chankitmittal/" target="_blank">linkedin.com/in/chankitmittal</a></li>
+		<li>Contact Form:<a href="https://docs.google.com/forms/d/e/1FAIpQLSeUIOL0OGZrxx5G9PMkf2Y_rIOP24IX5T_nnh0mH_FuZVZvdQ/viewform?usp=publish-editor" target="_blank">Form </a></li>
+      </ul>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 Chankit Mittal | Email: <a href="mailto:mittalchankit@gmail.com">mittalchankit@gmail.com</a> | 
+       LinkedIn: <a href="https://www.linkedin.com/in/chankitmittal/" target="_blank">linkedin.com/in/chankitmittal</a></p>
+  </footer>
+</body>
+</html>
